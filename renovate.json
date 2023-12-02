@@ -1,8 +1,8 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended"
-  ],
-    minimumReleaseAge=60 days,
-    internalChecksFilter="strict"
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "config:recommended"
+    ],
+    "minimumReleaseAge": "60 days",
+    "internalChecksFilter": "strict"
 }
