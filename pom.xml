@@ -34,7 +34,7 @@
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
       <!--<version>1.4.6</version> --><!-- Not working -->
-      <version>1.2.11</version><!-- Working -->
+      <version>1.2.13</version><!-- Working -->
     </dependency>
 
     <dependency>
